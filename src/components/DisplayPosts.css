@@ -1,0 +1,32 @@
+.posts {
+    margin: 10px auto;
+    /* padding: 5px; */
+    background-color: #F0FFFF;
+    border-radius: 10px;
+    box-shadow: 4px 3px 2px #ccc;
+}
+
+.postHead {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color:#FFF0F5;
+    border-radius: 10px 10px 0 0;
+}
+
+.postBody {
+    padding: 5px;
+}
+
+.postBodyText {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.postDelete {
+    cursor: pointer;
+    color: red;
+}

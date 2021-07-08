@@ -1,0 +1,17 @@
+body {
+    background-color: #F5F5F5;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    margin: 10px auto;
+    padding: 5px;
+    width: 50%;
+    /* background-color: #FFF;
+    border-radius: 10px;
+    box-shadow: 4px 3px 2px #ccc; */
+}

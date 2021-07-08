@@ -1,0 +1,66 @@
+.container {
+    margin: 2px auto;
+    padding: 5px;
+    background-color: #FFF;
+    border-radius: 10px;
+    box-shadow: 4px 3px 2px #ccc;
+}
+
+.gifImage {
+    position: relative;
+    text-align: center;
+}
+
+.closeBtn {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.closeBtn:hover {
+    cursor: pointer;
+}
+
+.postText {
+    display: block;
+    outline: none;
+    border: none;
+    margin: auto;
+    padding: 5px;
+    background-color: transparent;
+    white-space: wrap;
+    resize: none;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.gifButton {
+    display: block;
+    width: 50%;
+    color: orange;
+    outline: none;
+    border: none;
+    margin: auto;
+    padding: 5px; 
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.gifButton:hover {
+    cursor: pointer;
+}
+
+.actionBtns {
+    margin-left: 56%;
+}
+
+.actionBtn {
+    cursor: pointer;
+    margin: 15px 8px 5px;
+    padding: 2px;
+    font-size: 18px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 4px;
+}
